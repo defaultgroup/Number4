@@ -56,9 +56,9 @@ document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MDZfM
 <br>&nbsp;&nbsp;&nbsp;
 <br>
 <br>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">이전 문제로</button>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">다음 문제로</button>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">최종 정답으로</button>
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number3/'">이전 문제로</button>
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number5/'">다음 문제로</button>
+<button type="button" onclick="location.href='https://defaultgroup.github.io/END/'">최종 정답으로</button>
 
 </body>
 </html>
