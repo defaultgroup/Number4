@@ -29,7 +29,7 @@ function oh(){
   alert("틀렸습니다! 다시 한번 생각해보세요.");
 }
 function wow(){
-  alert("정답입니다! 키워드는 '' 입니다.");
+  alert("정답입니다! 키워드는 'A' 입니다.");
 document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MDZfMjYw/MDAxNTMzNTU4ODkwNjYw.yzVlZETGOj-BGKOzF_kuh2Kr0Je3z_z_PP-AbNDN2Dgg.OLLL8vUeKugtcECtFo8Uq_NDs6n_uywAV8KE-Zo3Mvwg.PNG.ychh1123/KakaoTalk_20180806_210315315.png'
 }
 
