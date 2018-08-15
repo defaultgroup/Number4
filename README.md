@@ -38,7 +38,7 @@ document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MDZfM
 
 <h2>문제 시작!</h2>
 
-<p>1. 다음 그림자가 나타내는 것으로 <strong>옳은</strong>것은?</p>
+<p>4. 다음 그림자가 나타내는 것으로 <strong>옳은</strong>것은?</p>
 <p>(오버워치 캐릭터 중 하나.)</p>
 
 <img src="https://blogfiles.pstatic.net/MjAxODA4MDZfMjMx/MDAxNTMzNTU4ODg5OTA1.5xgJQcFHNM0IicYOq0mU-Gyqatrrm2Ju2BNRtdP8uqMg.CSRq_C2g_L9CWPsiaPYuFxHY2KWa3jHrXZtTZ5YX2l4g.PNG.ychh1123/KakaoTalk_20180806_210209788.png"
