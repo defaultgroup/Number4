@@ -30,7 +30,7 @@ function oh(){
 }
 function wow(){
   alert("정답입니다! 키워드는 'A' 입니다.");
-document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MDZfMjYw/MDAxNTMzNTU4ODkwNjYw.yzVlZETGOj-BGKOzF_kuh2Kr0Je3z_z_PP-AbNDN2Dgg.OLLL8vUeKugtcECtFo8Uq_NDs6n_uywAV8KE-Zo3Mvwg.PNG.ychh1123/KakaoTalk_20180806_210315315.png'
+document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MThfMTgz/MDAxNTM0NTYzOTE0NDgz.EZVwmrcABeNDtXtm5UIBNyhRlCQbHHmq6hHnvegw0u0g.6hXdAibMkDYRNa1v68DIGx9AoPLHYXcRkkh0ASw5XRUg.PNG.ychh1123/KakaoTalk_20180806_210315315.png'
 }
 
 </script>
@@ -41,7 +41,7 @@ document.getElementById('hana').src='https://blogfiles.pstatic.net/MjAxODA4MDZfM
 <p>다음 그림자가 나타내는 것으로 <strong>옳은</strong>것은?</p>
 <p>(오버워치 캐릭터 중 하나.)</p>
 
-<img src="https://blogfiles.pstatic.net/MjAxODA4MDZfMjMx/MDAxNTMzNTU4ODg5OTA1.5xgJQcFHNM0IicYOq0mU-Gyqatrrm2Ju2BNRtdP8uqMg.CSRq_C2g_L9CWPsiaPYuFxHY2KWa3jHrXZtTZ5YX2l4g.PNG.ychh1123/KakaoTalk_20180806_210209788.png"
+<img src="https://blogfiles.pstatic.net/MjAxODA4MThfMjUy/MDAxNTM0NTYzOTE0MTQy.hd8KTkrlIaE5fPdzQMJ-1_1zu108jen411nrW7VXpLog.acVcicDAXCuQq7sh_8oOxjnNg_314ePzg9c_60ZcKDcg.PNG.ychh1123/KakaoTalk_20180806_210209788.png"
  alt="오버워치 캐릭터" id="hana" width="300" height="360">
 <br>
  <button onclick="oh()">루시우</button>
